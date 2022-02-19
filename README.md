@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bugaddr
+- 👋 Hi, I’m @Bugaddr (Bug-addr)
 - 👀 I’m interested in adding bugs
 - 🌱 I’m currently learning c--
 - 📫 How to reach me: Take a spacex rocket, go till altitude of 6 inch and blow off rocket with IED's, thats where i will say you hi
